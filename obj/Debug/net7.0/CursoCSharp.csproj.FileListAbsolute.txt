@@ -1,0 +1,15 @@
+C:\Workspace\CursoCSharp\bin\Debug\net7.0\CursoCSharp.exe
+C:\Workspace\CursoCSharp\bin\Debug\net7.0\CursoCSharp.deps.json
+C:\Workspace\CursoCSharp\bin\Debug\net7.0\CursoCSharp.runtimeconfig.json
+C:\Workspace\CursoCSharp\bin\Debug\net7.0\CursoCSharp.dll
+C:\Workspace\CursoCSharp\bin\Debug\net7.0\CursoCSharp.pdb
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.AssemblyInfo.cs
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.dll
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\refint\CursoCSharp.dll
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.pdb
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\CursoCSharp.genruntimeconfig.cache
+C:\Workspace\CursoCSharp\obj\Debug\net7.0\ref\CursoCSharp.dll
